@@ -1,4 +1,4 @@
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&langs_count=5&theme=blueberry)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&langs_count=5&theme=panda)]()
 <!--
 **neilmartindev/neilmartindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

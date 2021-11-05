@@ -4,7 +4,7 @@
 </p>
 
 ---
-I'm a software engineer from the UK. I work in a private consultancy for machine automation, controls and instrumentation. I also spend my spare time at a local aerospace company that develops commercial rockets that have a gross weight of around 2,500kg.
+I'm a software engineer from the UK. I work in a private consultancy for machine automation, controls and instrumentation. I spend some of my spare time at a local aerospace company that develops commercial rockets that have a gross weight of around 2,500kg.
 
 I work with both front end and back end technologies and not afraid to get stuck into something technical. 
 

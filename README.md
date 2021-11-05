@@ -4,7 +4,7 @@
 </p>
 
 ---
-I'm a software engineer from the UK mainly working in machine automation, controls and instrumentation. I also volunteer at a local aerospace company that develops and launches commercial rockets.
+I'm a software engineer from the UK mainly working in a private consultancy for machine automation, controls and instrumentation. I also spend my spare time at a local aerospace company that develops commercial rockets.
 
 I work with both front end and back end technologies and not afraid to get stuck into something technical. 
 

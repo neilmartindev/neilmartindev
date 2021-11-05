@@ -10,7 +10,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 
 - 😄 Education: BSc(Hons) in Computer Science and currently studying a MEng in engineering.
-- 💬 Ask me about: C#, Dotnet, Python, Linux, Docker and any other technologies that you can think of!
+- 💬 Ask me about: C#, DOTNET, Python, Linux, Docker and any other technologies that you can think of!
 - 📫 How to reach me: neilmartindotdev@protonmail.com
 - ⚡ Fun fact: 
 

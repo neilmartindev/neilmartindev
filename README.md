@@ -10,9 +10,8 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 
 - :books:  Education: BSc(Hons) in Computer Science and currently studying a MEng in engineering.
-- 💬 Ask me about: C#, DOTNET, Python, Linux, Docker and any other technologies that you can think of!
-- 📫 How to reach me: neilmartindotdev@protonmail.com
-- ⚡ Fun fact: 
+- :speech_balloon: Ask me about: C#, DOTNET, Python, Linux, Docker and any other technologies that you can think of!
+- :calling: How to reach me: neilmartindotdev@protonmail.com
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&langs_count=5&theme=radical)]()
 

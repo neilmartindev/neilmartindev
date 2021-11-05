@@ -14,6 +14,5 @@ I love sharing my knowledge with others, and I do that through content creation 
 - 📫 How to reach me: neilmartindotdev@protonmail.com
 - ⚡ Fun fact: 
 
-<p align='center'>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&langs_count=5&theme=radical)]()
-</p>
+

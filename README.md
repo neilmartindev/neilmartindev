@@ -4,7 +4,7 @@
 </p>
 
 ---
-✨ I'm a software engineer from the UK mainly working in machine automation and creating the missing link between IoT and full stack applications to display and manipulate data from industrial hardware.
+✨ I'm a software engineer from the UK mainly working in machine automation.
 
 I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a GitHub Star, Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
 

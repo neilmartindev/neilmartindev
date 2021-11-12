@@ -4,8 +4,7 @@
 </p>
 
 ---
-I'm a software engineer from the UK. I work in a private consultancy for machine automation, controls and instrumentation. I spend some of my spare time at a local aerospace company that develops private rockets.
-
+I'm a software engineer from the UK. I work with software for factory automation.
 I work with both front end and back end technologies and not afraid to get stuck into something technical. 
 
 - :books:  Education: BSc(Hons) in Computer Science and currently studying a MEng in Engineering.

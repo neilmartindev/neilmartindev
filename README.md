@@ -11,5 +11,5 @@ I'm a software engineer from the UK. I work with software for factory automation
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 - :question: Interests: AI, machine learning, aviation, history and electric cars.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&langs_count=5&theme=radical)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&langs_count=5&theme=nightowl)]()
 

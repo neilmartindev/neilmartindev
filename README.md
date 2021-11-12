@@ -10,6 +10,3 @@ I'm a software engineer from the UK. I work with software for factory automation
 - :speech_balloon: Ask me about: C#, DOTNET, Python, Linux, Docker and any other technologies that you can think of!
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 - :question: Interests: AI, machine learning, aviation, history and electric cars.
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&langs_count=5&theme=prussian)]()
-

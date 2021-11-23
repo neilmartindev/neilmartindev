@@ -8,5 +8,5 @@ I'm a software engineer from the UK and I work with software for factory automat
 
 - :books:  Education: BSc (Hons) in Computer Science and currently studying a MEng in Mechanical Engineering.
 - :speech_balloon: My main languages: C# and Python.
--🌱 Currently learning: Ruby on Rails and Javascript.
+- :seedling: Currently learning: Ruby on Rails and Javascript.
 - :calling: How to reach me: neilmartindotdev@protonmail.com

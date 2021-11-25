@@ -1,9 +1,4 @@
 
-<h3 align="center"></h3>
-<p align="center">
-</p>
-
----
 I'm a software engineer from the UK and I work with software for factory automation within car manufacturing plants, food production plants and chemical plants.
 
 - :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Mechanical Engineering.

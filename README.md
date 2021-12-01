@@ -1,4 +1,4 @@
 - :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Mechanical Engineering.
 - :speech_balloon: My main languages: C# and Python.
-- :seedling: Currently learning: Ruby and Ruby on Rails.
+- :seedling: Currently learning: Fullstack Javascript.
 - :calling: How to reach me: neilmartindotdev@protonmail.com

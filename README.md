@@ -3,5 +3,5 @@
 - :seedling: Currently learning: Fullstack Javascript.
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindotdev)](https://github.com/neilmartindotdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev)](https://github.com/neilmartindev/neilmartindev)
 

@@ -1,4 +1,4 @@
-- :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Energy Engineering.
+- :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Renewable Engineering.
 - :speech_balloon: My main languages: C#, HTML, CSS, JS and Python.
 - :seedling: Currently learning: AWS Solution Architect Associate.
 - :calling: How to reach me: neilmartindotdev@protonmail.com

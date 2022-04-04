@@ -1,4 +1,4 @@
 - :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Mechanical Engineering.
 - :speech_balloon: My main languages: C#, HTML, CSS and Python.
-- :seedling: Currently learning: Rust and Flutter development framework.
+- :seedling: Currently learning: Fullstack .NET
 - :calling: How to reach me: neilmartindotdev@protonmail.com

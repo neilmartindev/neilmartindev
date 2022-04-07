@@ -3,4 +3,4 @@
 - :seedling: Currently learning: Fullstack .NET
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 
-[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev)](https://github.com/neilmartindev/github-readme-stats)
+![Neils's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=react)

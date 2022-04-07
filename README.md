@@ -3,6 +3,6 @@
 - :seedling: Currently learning: Fullstack .NET
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
+![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&hide=css)](https://github.com/neilmartindev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&hide=css)](https://github.com/neilmartindev/github-readme-stats&show_icons=true&theme=react))

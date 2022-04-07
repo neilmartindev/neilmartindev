@@ -4,3 +4,5 @@
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 - 
 [Neils's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&hide=css)](https://github.com/neilmartindev/github-readme-stats)

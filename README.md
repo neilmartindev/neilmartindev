@@ -5,4 +5,4 @@
 - 
 ![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&theme=react)](https://github.com/neilmartindev/github-readme-stats)

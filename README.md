@@ -2,11 +2,5 @@
 - :speech_balloon: My main languages: C#, HTML, CSS and Python.
 - :seedling: Currently learning: Fullstack .NET
 - :calling: How to reach me: neilmartindotdev@protonmail.com
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="![Neils's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=react)
-" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&layout=compact)](https://github.com/neilmartindev/github-readme-stats)" />
-</a>
+- 
+[Neils's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=react)

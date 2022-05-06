@@ -3,6 +3,6 @@
 - :seedling: Currently learning: Python
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 
-![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=react)
+![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmartindev&theme=react&hide=css)](https://github.com/neilmartindev/github-readme-stats)

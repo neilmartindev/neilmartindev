@@ -1,4 +1,4 @@
-- :books:  Education: BSc (Hons) in Computer Science and currently studying a MEng in Engineering
+- :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Computational Mathematics
 - :speech_balloon: My main languages: Python and C#
 - :seedling: Currently learning: Javascript
 - :calling: How to reach me: neilmartindotdev@protonmail.com

@@ -1,5 +1,4 @@
 - :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Engineering with a focus on Computational Mathematics
-- :speech_balloon: My main languages: Python and C#
 - :seedling: Currently learning: Flutter Framework
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 

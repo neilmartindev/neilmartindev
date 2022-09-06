@@ -1,5 +1,5 @@
 - :books:  Education: BSc (Hons) in Computer Science and currently studying a Masters in Engineering with a focus on Computational Mathematics
-- :computer: Work: I currently work at a UK research centre focusing on research into manufacturing processes and technology
+- :computer: I currently work for a UK research centre focusing on research into manufacturing processes and technology
 - :seedling: Currently learning: PHP with Laravel  
 - :calling: How to reach me: neilmartindotdev@protonmail.com
 

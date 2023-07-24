@@ -1,4 +1,4 @@
-Hello, I currently work for a UK research centre focusing on research for manufacturing processes and technology with a twist of cloud, infrastructure as code and digitalisation.
+Hello, I currently work for a UK research centre focusing on research for manufacturing processes and technology with a modern computing platforms such as of cloud, infrastructure as code and building redundant systems.
 I'm currently trying to learn more Openstack, IaC and Red Hat Linux with some Kaggle datasets on the side.
 
 ![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilmartindev&show_icons=true&theme=gruvbox)
